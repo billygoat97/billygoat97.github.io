@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "김기현의 개발 성장 블로그
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "김기현 (Bill)"
+description              : "여행, 영화, 사람과 함께 어울리는 것을 좋아하는 개발자입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
