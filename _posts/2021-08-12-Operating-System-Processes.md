@@ -10,7 +10,7 @@ tags:
   - process switching
   - mode switching
 toc: true
-toc_sticky: true
+#toc_sticky: true
 ---
 
 # 3장 Processes (프로세스)
