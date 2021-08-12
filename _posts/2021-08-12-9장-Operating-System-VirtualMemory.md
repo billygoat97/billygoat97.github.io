@@ -44,6 +44,8 @@ toc_sticky: true
 ### <span style = "color:powderblue"> ※ fixed partitioning
 - 그냥 파티셔닝 할 때, 모두 크기 동일하게 자르기 (구현은 쉬워도, 낭비가 크다, internal fragmentation 문제 발생)
 
+<br><br><br>
+
 ### <span style = "color:powderblue"> ※ 동적 partitioning
 - 파티션들이 동적으로 생성해서 자신의 크기와 일치하는 파티션에 들어감. internal fragmentation이 없다는 장점이 있고, 메인 메모리를 효율적으로 이요하지만, external fragmentation 문제가 있어 메모리 집약이 필요(외부에서도 메모리 효율적으로 이용하지 못함 -> compaction을 함)
 <br><br><br>
