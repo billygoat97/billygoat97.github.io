@@ -38,7 +38,7 @@ toc_sticky: true
 <br><br><br>
 
 ### <span style = "color:powderblue"> ※ Process State
-![image](github.com/billygoat97/billygoat97.github.io/tree/master/images/OS-03-01.png)
+![image](/images/OS-03-01.png)
 - 프로세스는 New, Ready, Running, Blocked, Exit의 5가지 state를 위 그림의 형태로 존재
 <br><br><br>
 
@@ -108,16 +108,16 @@ toc_sticky: true
 1. 유저 프로세스에 의해 실행
 - 모든 os 코드는 유저 프로세스의 context에 의해 실행된다
 -> 항상 프로세스 스위칭이 일어나는 것이 아니고, 그냥 모드 스위칭만 있을수도 있음(장점)
-![image]((github.com/billygoat97/billygoat97.github.io/tree/master/images/OS-03-02.png)
+![image](/images/OS-03-02.png)
 
 2. nonprocess kernel;
 - 전통적인 접근
 - 유저 프로세스는 os 위에 stacked됨 (subroutines같은 것)
-![image]((github.com/billygoat97/billygoat97.github.io/tree/master/images/OS-03-03.png)
+![image](/images/OS-03-03.png)
 
 3. 프로세스 기반 운영체제
 - 커널 함수들을 분리된 시스템 프로세스로 implement
-![image]((github.com/billygoat97/billygoat97.github.io/tree/master/images/OS-03-04.png)
+![image](/images/OS-03-04.png)
 <br><br><br>
 
 ### <span style = "color:powderblue"> ※ 프로세스 생성(운영체제 관점)
