@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 8장 Memory Manangement"
+title: "운영체제(OS) 08장 Memory Manangement"
 except: "운영체제(OS) 에서 Memory 관리 기법에 대해서 알아보자"
 categories:
   - 운영체제

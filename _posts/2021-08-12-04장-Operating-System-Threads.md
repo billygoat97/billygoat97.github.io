@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 4장 Threads"
+title: "운영체제(OS) 04장 Threads"
 except: "운영체제(OS) 에서 Processor의 처리를 획기적으로 빠르게 하는 Thread에 대해 알아보자"
 categories:
   - 운영체제

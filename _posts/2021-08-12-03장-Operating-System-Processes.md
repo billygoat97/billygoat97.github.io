@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 3장 Processes"
+title: "운영체제(OS) 03장 Processes"
 except: "운영체제(OS) 에서 가장 핵심적인 개념 프로세스에 대해 알아보자."
 categories:
   - 운영체제

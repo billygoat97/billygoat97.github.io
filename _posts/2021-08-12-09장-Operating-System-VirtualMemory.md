@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 9장 Virtual Memory"
+title: "운영체제(OS) 09장 Virtual Memory"
 except: "운영체제(OS) 에서 실제 메모리보다 더 많이 이용할 수 있는 Virtual Memory에 대해서 알아보자"
 categories:
   - 운영체제

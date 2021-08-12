@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 5장 CPUScheduling"
+title: "운영체제(OS) 05장 CPUScheduling"
 except: "운영체제(OS) 에서 Process를 어떤 순서로 실행시킬지 생각해보자."
 categories:
   - 운영체제

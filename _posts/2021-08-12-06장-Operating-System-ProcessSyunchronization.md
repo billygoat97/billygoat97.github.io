@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 6장 ProcessSynchronization"
+title: "운영체제(OS) 06장 ProcessSynchronization"
 except: "운영체제(OS) 에서 Thread로 인해 프로세스의 동기화 이슈가 있는 경우를 알아보자"
 categories:
   - 운영체제

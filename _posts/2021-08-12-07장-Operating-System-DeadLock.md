@@ -1,5 +1,5 @@
 ---
-title: "운영체제(OS) 7장 DeadLock"
+title: "운영체제(OS) 07장 DeadLock"
 except: "운영체제(OS) 에서 Resource 활용으로 일어 날 수 있는 Deadlock 에 대해 알아보자"
 categories:
   - 운영체제
