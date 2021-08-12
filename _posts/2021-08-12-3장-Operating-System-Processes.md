@@ -9,7 +9,7 @@ tags:
   - process state
   - process switching
   - mode switching
-toc: false
+toc: true
 toc_sticky: true
 ---
 
