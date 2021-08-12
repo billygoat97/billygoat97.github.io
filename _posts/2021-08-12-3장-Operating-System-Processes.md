@@ -38,7 +38,7 @@ toc_sticky: true
 <br><br><br>
 
 ### <span style = "color:powderblue"> ※ Process State
-![image](../images/OS-03-01.png)
+![image](images/OS-03-01.png)
 - 프로세스는 New, Ready, Running, Blocked, Exit의 5가지 state를 위 그림의 형태로 존재
 <br><br><br>
 
