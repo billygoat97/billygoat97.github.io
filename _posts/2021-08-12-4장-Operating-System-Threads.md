@@ -12,8 +12,7 @@ toc_sticky: true
 ---
 
 # 4장 Threads (스레드)
-
-## <span style = "color:powderblue"> ※ 프로세스란 무엇인가?
+## <span style = "color:powderblue"> ※ 스레드란 무엇인가?
 ### <span style = "color:powderblue"> ※ 프로세스 모델의 한계
 - fork를 해서 복제 in order to 다수의 simultaneous task를 하기 위해
 이러한 것은 자원을 공유할 때에는 비효율!
