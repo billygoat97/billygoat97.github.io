@@ -1,10 +1,10 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "운영체제(OS) Processes"
 categories:
-  - Edge Case
+  - 운영체제
 tags:
-  - content
-  - css
+  - process
+  - 
   - edge case
   - lists
   - markup
