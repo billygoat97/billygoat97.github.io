@@ -164,7 +164,7 @@ toc_sticky: true
 <br><br><br>
 
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . Data Cube와 Cross Tabulation에 대해서 설명하고, OLAP를 통해 정보를 어떻게 view로 보여주는지 설명하시오** </span>
 
 - Cross Tabulation(pivot table)이란, 표로 특성을 row, col로 만들어서 표시하는 형식이다. Cross Tabulation은 2차원으로만 표현하는데 그러한 Cross Tabulation을 3차 이상의 것으로 합친 table을 data cube라고 한다. Cross Tabulation은 OLAP를 이용해 생성 및 가공하는데, Pivoting은 cross tab의 dimension을 바꾸는 것이고(row col), slicing은 정해진 값으로 cross tab을 만드는 것이다. Rollup은 생성된 cross Tab에서 상세 내용의 속성을 더 상위의 것으로 합치는 것을 의미한다(도시 -> 도), 이와 반대되는 개념은 Drill down으로 분리하여 더 큰 tab로 변경하는 것이다(도->도시)

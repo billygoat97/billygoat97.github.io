@@ -182,7 +182,7 @@ file이 dentry로 슝슝
 <br><br><br>
 <br><br><br>
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . FCB가 무엇인지?** </span>
 FCB는 파일 제어 블록으로 파일에 대한 정보를 구성하는 저장구조로 파티션에 위치한다. fcb는 파일을 open할 때 주기억장치로 이동이 되며, read할 때 이를 이용하여 datablock들을 활용한다.
 

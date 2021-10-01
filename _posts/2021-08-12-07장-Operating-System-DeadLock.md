@@ -87,7 +87,7 @@ finish[i] = true 로 바꾸고 2로 돌아기
 <br><br><br>
 
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . 데드락을 유발하는 4가지 필요조건에 대해 설명하고, 왜 충분조건이 아닌지에 대해서 설명하시오** </span>
 데드락의 4가지 필요조건은 상호배제, hold and wait, no preemption, circular wait 4가지로, 상호배제는 한번에 한 프로세스만이 자원을 이용가능하며, hold and wait는 자원을 들고 있으면서 자원을 요청하는 프로세스가 다른 프로세스가 들고 있는 자원을 기다리는 것, no preemption은 다른 프로세스보고 자원을 요구하라고 말 못할 때, 원형 대기는 그래프에서 사이클을 구축할때를 의미한다. 다음 4가지를 모두 만족할 때에만 교착상태가 일어날 수 있는 것이며, 그중 하나만 아니더라도 데드락이 되지 않는 모습이 존재하기 때문이다.
 

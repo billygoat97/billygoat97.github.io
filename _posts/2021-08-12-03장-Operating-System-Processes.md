@@ -143,7 +143,7 @@ toc_sticky: true
 <br><br><br>
 <br><br><br>
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . 프로세스 스위칭과 모드 스위칭의 차이를 간단히 설명하면?** </span>
 
   - 프로세스 스위칭은 현재 run하고 있는 프로세스의 state를 변경하고 스케쥴링에 따른 새로운 프로세스가 run하도록 state를 변경하게 하는 것이므로 완전 context switching이 필요하다.

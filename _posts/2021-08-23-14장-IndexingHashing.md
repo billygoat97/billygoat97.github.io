@@ -132,7 +132,7 @@ Secondary Index
 <br><br><br>
 
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . Indexing 2가지 설명** </span>
 
 - Indexing은 원하는 data를 빠르게 찾는 방법을 의미한다. 여기서 Search key는 value에게 가는 pointer과 pair이 되어 있는데, 이를 어떻게 indexing하냐에 따라 방식이 달라진다. 처번째 방식은 Ordered Indices로 search key는 sorted order 즉 정렬된 순서로 존재하는 것이고 hash indices는 해시 함수를 통해 분산되어 있음을 의미한다. Ordered indices는 primary index로 순차적으로 정렬되어 있거나, 실제 값들은 순차적으로 정렬되어 있지는 않은 secondary index로 존재하고, 때로는 이들이 여러 층의 multilevel 형태로 존재하기도 한다.

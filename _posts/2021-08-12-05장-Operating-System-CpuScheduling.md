@@ -163,7 +163,7 @@ a*(1-a)^i * t(n-i)
 <br><br><br>
 
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . 3가지 스케줄링 방법에 대해서 설명하고 그 비교 분석** </span>
 스케줄링은 FCFS, RR, SJF 3가지가 존재하는데, FCFS는 선입선출로 처음 waiting queue에 들어온 프로세스 순으로 실행을 한다는 점이 있다. 들어온 순서대로 하기 때문에 초기에 너무 긴 execution time이 있는 프로세스가 있다면 다른 프로세스는 waiting 시간이 평균적으로 길어진다는 점이 있다. 두 번째로는 RR인데, FCFS와 같은 선입선출의 방식을 따르지만, 일정 시간 (CPU burst)를 정해 해당 시간만큼 execute 할 수 있도록 공평하게 시간을 할당해 준다. 이를 통해서 시간이 만료됐지만 완료가 안된 프로세스는 queue의 마지막에 다시 위치하게 된다. 마지막으로는 SJF로, 가장 빠른 cpu burst를 가진 것을 우선순위로 먼저 선택한다는 점이 있다. SJF에서는 2가지 방식이 있는데 preemptive와 non preemptive이다. non preemptive는 현재 실행되고 있는 프로세스는 대기 queue에서 우선순위를 누가 가지고 있는지와 별개로 완료될때까지 프로세스 변경을 하지 않는다는 점이며, preemptive의 경우, 실행되고 있는 프로세스도 다른 queue의 우선순위와 비교하여 변경이 수시로 가능하다는 점이 있다. 이러한 우선순위를 도입하는 것에 있어서 우선순위가 낮은 프로세스는 starvation problem이 존재할 수 있다는 단점이 있다.
 

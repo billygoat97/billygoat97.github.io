@@ -119,7 +119,7 @@ Application IO interface;
 <br><br><br>
 <br><br><br>
 
-# <span style = "color:Yellow">**※ 예상 질문**
+# <span style = "color:Yellow">**※ 핵심 내용**
 ## <span style = "color:Orange"> **Q1 . io port io interface device controller 특징, 관계?** </span>
 io bus에 연결되어 있는 모든 디바이스는 io 주소가 있다(ioport). 각 디바이스의 io port들은 특정 레지스터로 이루어져 있으며, cpu와 ioport 간에 데이터 전송은 in, ins, out, outs들로 진행된다. 그런데 이것이 바로 cpu에 바로 전달되기 힘든데, 이를 위해서 io 인터페이스를 이용한다. 인터페이스는 io port와 디바이스 컨트롤러 사이에 삽입되어있는 하드웨어 서킷으로 interpreter의 역할을 수행하는데 io port와 device 간에 instruction을 변환시켜줌으로서 디바이스에게 적합하게 만들어 준다. 이를 작동하도록 전기 신호를 보내는 것이 디바이스 컨트롤이다.
 
